@@ -1,5 +1,5 @@
-#ifndef ANIMAL_H
-#define ANIMAL_H
+#ifndef STACK_H
+#define STACK_H
 
 const int SIZE = 5;
 
@@ -27,4 +27,4 @@ class Stack {
 
 };
 
-#endif // ANIMAL_H
+#endif // STACK_H

@@ -1,0 +1,2 @@
+isEmpty push 5 push 7 push 6 push 9 top pop top pop push 4 top pop push 5 pop push 3 push 7 pop
+top pop isEmpty push 2 isEmpty pop isEmpty isFull push 1 pop quit

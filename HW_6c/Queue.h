@@ -1,5 +1,5 @@
-#ifndef ANIMAL_H
-#define ANIMAL_H
+#ifndef QUEUE_H
+#define QUEUE_H
 
 #include <iostream>
 
@@ -65,4 +65,4 @@ class Queue {
         }
 };
 
-#endif // ANIMAL_H
+#endif // QUEUE_H
